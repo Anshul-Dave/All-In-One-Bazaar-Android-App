@@ -131,7 +131,7 @@ All-In-One-Bazaar/
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/ahdave1573-dev/All-In-One-Bazaar.git
+git clone https://github.com/Anshul-Dave/All-In-One-Bazaar.git
 ```
 
 **2. Move to server folder**
@@ -222,7 +222,7 @@ This project is licensed under the [MIT License](LICENSE).
 |:---:|:---|
 | **Name** | Anshul Dave |
 | **Email** | [ahdave1573@gmail.com](mailto:ahdave1573@gmail.com) |
-| **GitHub** | [@ahdave1573-dev](https://github.com/ahdave1573-dev) |
+| **GitHub** | [@Anshul-Dave](https://github.com/Anshul-Dave) |
 
 ---
 
