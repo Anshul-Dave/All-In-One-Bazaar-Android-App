@@ -1,5 +1,5 @@
 <div align="center">
-
+ 
 # 🛒 All In One Bazaar
 
 ### *One Platform. Every Product. Endless Possibilities.*
